@@ -55,6 +55,8 @@ a:hover {
 }
 
 #projects {
+    box-shadow: 0 0 0 100vmax #9b9879;
+    clip-path: inset(0 -100vmax);
     background: #9b9879;
     width: 100%;
     margin: 0;
